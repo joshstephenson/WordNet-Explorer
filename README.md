@@ -7,3 +7,7 @@ This is a basic word explorer for the dataset provided in project #6 of Princeto
 
 ## Implementation
 This implementation uses a directed graph data structure.
+
+
+######
+This project was inspired and by and uses data from [Princeton's CS project here](https://coursera.cs.princeton.edu/algs4/assignments/wordnet/specification.php).
